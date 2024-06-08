@@ -5,7 +5,7 @@ local hwid = nil
 local hwidplr = game:GetService("RbxAnalyticsService"):GetClientId()
 
 if _G.Key == "123" then
-    hwid = "5C2A2FE5-FA81-4801-B99D-DA4D8AD80F8C"
+    hwid = "b80f9593-3951-4e39-a5d5-0bc98c4f234e"
     keychecked = true
 end
 
